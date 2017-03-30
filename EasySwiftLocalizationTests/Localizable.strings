@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  EasySwiftLocalization
+
+  Created by Juozas Bitkevicius on 30/03/2017.
+  Copyright © 2017 Juozas Bitkevicius. All rights reserved.
+*/
+
+"test_string" = "Test string";
+"test_string_lcase" = "Test STring";
+"test_string_ucase" = "test string";
